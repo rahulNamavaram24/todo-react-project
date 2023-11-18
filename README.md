@@ -22,7 +22,7 @@ https://github.com/rahulNamavaram24/todo-react-project/assets/63719351/f04499f9-
 
 1. Clone the repository.
 2. Install dependencies: `npm install`
-3. Run the app: `npm start`
+3. Run the app: `npm run dev`
 
 ## Acknowledgments
 
